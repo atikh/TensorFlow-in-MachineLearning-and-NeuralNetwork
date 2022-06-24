@@ -1,1 +1,1 @@
-##Learn How to use TensorFlow in MachineLearning and NeuralNetwork with details.
+print('Learn How to use TensorFlow in MachineLearning and NeuralNetwork with details.')
